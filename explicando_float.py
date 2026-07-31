@@ -21,3 +21,13 @@ print(type(valor1))
 print(valor2)
 print(type(valor2))
 print('É possível atribuir múltiplos valores a múltiplas variáveis, mas não é a forma correta de representar um número decimal\n')
+
+#Convertendo float para int
+res = int(valor)
+print(res)
+print(type(res))
+
+# Números complexos
+variavel = 5j
+print(variavel)
+print(type(variavel))
